@@ -16,6 +16,7 @@ int main()
 
 
 
+
 // Function to check if the watermelon can be divided
 bool canDivide(int w)
 {
