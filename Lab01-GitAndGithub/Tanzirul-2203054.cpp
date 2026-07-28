@@ -13,3 +13,24 @@ int main()
 
   return 0;
 }
+
+
+
+// Function to check if the watermelon can be divided
+bool canDivide(int w)
+{
+    return (w > 2 && w % 2 == 0);
+}
+
+int main()
+{
+    int w;
+    cin >> w;
+
+    if (canDivide(w))
+        cout << "YES";
+    else
+        cout << "NO";
+
+    return 0;
+}
