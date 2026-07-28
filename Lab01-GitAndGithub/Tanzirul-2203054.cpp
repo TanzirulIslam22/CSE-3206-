@@ -11,7 +11,7 @@ int main()
   if (w > 2 && w % 2 == 0){
     cout << "YES"<< endl;
     int a = fact(w);
-    cout <<"The factorila is = "<< a << endl ;
+    cout <<"The factorial is = "<< a << endl ; //spelling mistake.
   }
   else
     cout << "NO";
