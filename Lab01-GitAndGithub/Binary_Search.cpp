@@ -20,7 +20,7 @@ int binarySearch(int arr[], int n, int target) {
 
 int main() {
     int n;
-    cout << "Enter the number of elements of an array: ";
+    cout << "Enter the total number of elements: ";
     cin >> n;
 
     int arr[n];
