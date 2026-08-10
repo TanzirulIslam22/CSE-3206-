@@ -20,7 +20,8 @@ int binarySearch(int arr[], int n, int target) {
 
 int main() {
     int n;
-    cout << "Enter the number of elements of an array: ";
+    cout << "Enter the number of elements of an array (Tanzirul version): ";
+
     cin >> n;
 
     int arr[n];
